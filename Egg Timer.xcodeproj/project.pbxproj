@@ -15,6 +15,7 @@
 		05DF820A268D9B20007511AC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05DF8208268D9B20007511AC /* LaunchScreen.storyboard */; };
 		05DF8215268D9B20007511AC /* Egg_TimerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DF8214268D9B20007511AC /* Egg_TimerTests.swift */; };
 		05DF8220268D9B20007511AC /* Egg_TimerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DF821F268D9B20007511AC /* Egg_TimerUITests.swift */; };
+		05DF822E268D9BEA007511AC /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 05DF822D268D9BEA007511AC /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		05DF821B268D9B20007511AC /* Egg TimerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Egg TimerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		05DF821F268D9B20007511AC /* Egg_TimerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Egg_TimerUITests.swift; sourceTree = "<group>"; };
 		05DF8221268D9B20007511AC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		05DF822D268D9BEA007511AC /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				05DF8206268D9B20007511AC /* Assets.xcassets */,
 				05DF8208268D9B20007511AC /* LaunchScreen.storyboard */,
 				05DF820B268D9B20007511AC /* Info.plist */,
+				05DF822D268D9BEA007511AC /* alarm_sound.mp3 */,
 			);
 			path = "Egg Timer";
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			files = (
 				05DF820A268D9B20007511AC /* LaunchScreen.storyboard in Resources */,
 				05DF8207268D9B20007511AC /* Assets.xcassets in Resources */,
+				05DF822E268D9BEA007511AC /* alarm_sound.mp3 in Resources */,
 				05DF8205268D9B1F007511AC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
